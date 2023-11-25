@@ -1,14 +1,15 @@
-# Learn Object-Oriented Programming Java
+# 🚀 Learn Object-Oriented Programming in Java
 
 Using JDK Version: openjdk-21.0.1
 
-Hi, Here I'm Learning OOP Java, all details I write it in comment.
+👋 Welcome to the "Learn Object-Oriented Programming (OOP) in Java" repository! Here, I'm on a journey to master OOP principles in Java, and I've documented all the details in the comments.
 
-Big Thanks for YouTube Channel PZN:
-- [Youtube Channel PZN](https://youtu.be/f3ZhNnvtV-w?feature=shared)
-- [Playlist Java PZN](https://www.youtube.com/playlist?list=PL-CtdCApEFH-p_Q2GyK4K3ORoAT0Yt7CX)
+A big shoutout to the YouTube channel "Pemograman Zaman Now" for their invaluable content:
+- [YouTube Channel PZN](https://youtu.be/f3ZhNnvtV-w?feature=shared)
+- [Java PZN Playlist](https://www.youtube.com/playlist?list=PL-CtdCApEFH-p_Q2GyK4K3ORoAT0Yt7CX)
 
-What I Learn:
+## What I'm Learning:
+
 - Introduction to OOP
 - Class
 - Objects
@@ -17,11 +18,11 @@ What I Learn:
 - Constructor
 - Constructor Overloading
 - Variable Shadowing
-- this Keyword
+- `this` Keyword
 - Inheritance
 - Method Overriding
-- super Keyword
-- super Constructor
+- `super` Keyword
+- `super` Constructor
 - Object Class
 - Polymorphism
 - Type Checks and Casts
@@ -35,14 +36,14 @@ What I Learn:
 - Interfaces
 - Interface Inheritance
 - Default Method
-- toString Method
-- equals Method
-- hashCode Method
+- `toString` Method
+- `equals` Method
+- `hashCode` Method
 - Final Class
 - Final Method
 - Inner Class
 - Anonymous Class
-- static Keywords
+- `static` Keywords
 - Record Class
 - Enum Class
 - Exceptions
@@ -53,6 +54,6 @@ What I Learn:
 - Annotations
 - Reflections
 
-Next is to learn Java Classes, Generic, and Collection.
+Next up, I'll be diving into Java Classes, Generics, and Collections.
 
-Thank you!
+Thank you for joining me on this Java OOP journey! 🌟
