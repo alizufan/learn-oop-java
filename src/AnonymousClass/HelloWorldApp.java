@@ -23,7 +23,7 @@ public class HelloWorldApp {
     };
 
     // Note:
-    //  - You can use it again, so you need repeat.
+    //  - You can't use it again, so you need repeat.
     HelloWorld spanish = new HelloWorld() {
       public void sayHello() {
         System.out.println("Hola");
